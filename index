@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>SheCodes</title>
+    <link href="style.css" />
+  </head>
+  <body>
+    <h1>SheCodes</h1>
+    <h3>Coding Workshop</h3>
+    <button><strong> Apply now</strong></button>
+    <ul>
+      <li class="free Coders">
+        <a
+          class="free Coders"
+          href="https://www.shecodes.io/students"
+          target="_blank"
+        >
+          Coders
+        </a>
+      </li>
+      <li class="free Cousers">
+        <a
+          class="free Cousers"
+          href="https://www.shecodes.io/workshops"
+          target="_blank"
+        >
+          Cousers
+        </a>
+      </li>
+      <li class="free Stories">
+        <a
+          class="free Stories"
+          href="https://www.shecodes.io/stories "
+          target="_blank"
+        >
+          Stories
+        </a>
+      </li>
+    </ul>
+    <hr />
+    <p>
+      <strong> More info </strong>
+    </p>
+    <img
+      src="https://wegate.eu/sites/default/files/shutterstock_606184016.jpg"
+      alt="Woman coding"
+      width="200"
+    />
+
+    <div>
+      <strong>
+        <span class="email">Email:</span>
+        hello@shecodes.io
+        <span class="email">Instagram:</span>
+        @shecodes.io
+      </strong>
+    </div>
+  </body>
+</html>

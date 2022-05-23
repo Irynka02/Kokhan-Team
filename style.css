@@ -1,0 +1,84 @@
+body {
+  background-color: #f6f2fe;
+}
+h1 {
+  font-size: 48px;
+  color: #885df1;
+  font-weight: bold;
+  text-decoration: underline;
+  text-align: center;
+}
+h3 {
+  text-align: center;
+  color: #272044;
+  font-size: 36px;
+  font-weight: normal;
+}
+
+button {
+  padding: 15px 30px;
+  font-size: 18px;
+  color: #885df1;
+  display: block;
+  margin: 0 auto 30px auto;
+  background: #f6f2fe;
+  border: 1px solid #885df1;
+  border-radius: 40px;
+  transition: all 150ms ease-in-out;
+}
+
+button:hover {
+  background: #885df1;
+  color: white;
+  cursor: pointer;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+  text-align: center;
+}
+
+li {
+  display: inline;
+  margin: 0 15px;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.Coders {
+  color: blue;
+}
+
+.Cousers {
+  color: red;
+}
+
+.Stories {
+  color: green;
+}
+p {
+  text-align: center;
+  font-size: larger;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+  width: 300px;
+}
+
+div {
+  text-align: center;
+  padding: 40px;
+}
+
+.email {
+  color: #885df1;
+}
